@@ -20,7 +20,8 @@ Integrantes:
 
 ## PARTE III
 Se identificaron las siguientes regiones críticas:
-![](/img/Monitor_Proceso.png)
+
+![](/img/Regiones_Criticas.png)
 
 Estas regiones fueron consideradadas como criticas, ya que si se mira el ganador en un principio
 hay más de uno que toma el primer puesto porque están accediendo al mismo tiempo los hilos al verificar
